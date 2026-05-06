@@ -1,4 +1,4 @@
-# 🛡️ DDoS Protection Setup — CentOS Stream 10
+#  DDoS Protection Setup — CentOS Stream 10
 
 Script de configuración automática de protección contra ataques DDoS para servidores **CentOS Stream 10**, desarrollado como parte del proyecto académico **"Técnicas avanzadas de protección contra ataques DDoS"** — Escuela de Ingenierías, Ciberseguridad, IUSH Medellín.
 
