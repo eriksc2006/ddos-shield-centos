@@ -153,7 +153,7 @@ ddos-protection-centos/
 
 **Erik A. Soto Castaño**
 
-Escuela de Ingenierías — Ciberseguridad
+Escuela de Ingenierías — Ingenieria de Sistemas
 Institución Universitaria Salazar y Herrera — IUSH Medellín
 
 ---
